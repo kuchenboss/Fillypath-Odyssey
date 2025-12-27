@@ -7,15 +7,15 @@
 <img src="DEIN_BILD_LINK_HIER" width="900" alt="Fillypath Odyssey Header">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.20.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mods-502-8B4513?style=for-the-badge&logo=curseforge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mods-158-8B4513?style=for-the-badge&logo=curseforge&logoColor=white" />
   <img src="https://img.shields.io/badge/Difficulty-⚔️_HARDCORE-FF4444?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Type-Tech_Medieval-D4AF37?style=for-the-badge&logo=atom&logoColor=white" />
 </p>
 
 
 <p align="center">
-  <a href="DEIN_DISCORD_LINK">
+  <a href="https://discord.gg/vZeAbfXe9q">
     <img src="https://img.shields.io/badge/Discord-Beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="DEIN_WIKI_LINK">
@@ -264,7 +264,7 @@ Die Welt ist gefährlich. Erkundung ist notwendig, um **seltene Erze** und **ant
 Du hast Fragen? Bugs gefunden? Willst deine Kreationen teilen?
 
 <p>
-  <a href="DEIN_DISCORD_LINK">
+  <a href="https://discord.gg/vZeAbfXe9q">
     <img src="https://img.shields.io/badge/💬_Discord_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="DEIN_GITHUB_ISSUES">
